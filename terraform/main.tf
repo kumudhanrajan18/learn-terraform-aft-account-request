@@ -5,7 +5,7 @@ module "sandbox" {
     AccountEmail              = "kumudhan+test_new_account@amazon.com"
     AccountName               = "sandbox-aft"
     ManagedOrganizationalUnit = "Learn AFT"
-    SSOUserEmail              = "kumudhan+test_new_account@amazon.com"
+    SSOUserEmail              = "kumudhan+test_new_account_aft@amazon.com"
     SSOUserFirstName          = "Sandbox"
     SSOUserLastName           = "AFT"
   }
